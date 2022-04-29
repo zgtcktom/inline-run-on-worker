@@ -1,0 +1,17 @@
+{
+  "name": "inline-run-on-worker",
+  "version": "1.0.0",
+  "description": "inline worker with arguments and async iterators",
+  "main": "runOnWorker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inline",
+    "web",
+    "worker",
+    "browser"
+  ],
+  "author": "irreg",
+  "license": "ISC"
+}
