@@ -1,6 +1,6 @@
 {
   "name": "inline-run-on-worker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "inline worker with arguments and async iterators",
   "main": "runOnWorker.js",
   "scripts": {
@@ -13,5 +13,13 @@
     "browser"
   ],
   "author": "irreg",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgtcktom/inline-run-on-worker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zgtcktom/inline-run-on-worker/issues"
+  },
+  "homepage": "https://github.com/zgtcktom/inline-run-on-worker#readme"
 }
