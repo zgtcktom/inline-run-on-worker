@@ -5,6 +5,7 @@
 ```
 npm i inline-run-on-worker
 ```
+For browser, download runOnWorker.min.js.
 
 ## Syntax
 ```
