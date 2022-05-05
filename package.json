@@ -2,7 +2,7 @@
   "name": "inline-run-on-worker",
   "version": "1.0.3",
   "description": "inline worker with arguments and async iterators",
-  "main": "runOnWorker.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
 	"build": "npx webpack"
