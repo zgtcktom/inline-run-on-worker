@@ -1,6 +1,6 @@
 {
   "name": "inline-run-on-worker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "inline worker with arguments and async iterators",
   "main": "index.js",
   "scripts": {
