@@ -7,6 +7,23 @@ npm i inline-run-on-worker
 ```
 For browser, download runOnWorker.min.js.
 
+## Usage
+
+### CommonJs
+```
+const {runOnWorker} = require('inline-run-on-worker');
+```
+
+### ES6 module (adding `type: "module"` to package.json)
+```
+import {runOnWorker} from 'inline-run-on-worker';
+```
+
+### Browser
+```
+<script src="./runOnWorker.min.js"></script>
+```
+
 ## Syntax
 ```
 runOnWorker(fn, args, messages);

@@ -1,10 +1,11 @@
 {
   "name": "inline-run-on-worker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "inline worker with arguments and async iterators",
   "main": "runOnWorker.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build": "npx webpack"
   },
   "keywords": [
     "inline",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/zgtcktom/inline-run-on-worker/issues"
   },
-  "homepage": "https://github.com/zgtcktom/inline-run-on-worker#readme"
+  "homepage": "https://github.com/zgtcktom/inline-run-on-worker#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0"
+  }
 }
